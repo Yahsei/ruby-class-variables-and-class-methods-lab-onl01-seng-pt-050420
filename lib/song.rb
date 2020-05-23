@@ -1,4 +1,4 @@
-class Album
+class Song
   @@album_count = 0 
  
   def initialize
