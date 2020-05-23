@@ -1,5 +1,5 @@
 class Song
-  
+  attr_accessor 
   @@count = 0 
  
   def initialize
